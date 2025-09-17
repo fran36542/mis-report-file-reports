@@ -1,0 +1,17 @@
+# Core
+streamlit
+pandas
+numpy
+
+# Excel Handling
+openpyxl
+xlsxwriter
+xlrd
+
+# Visualization (optional, in case you use charts later)
+matplotlib
+plotly
+
+# Utils
+requests
+python-dateutil
